@@ -2,3 +2,4 @@ Some text.
 Changes 2.
 Some changes.
 New branch changes.
+Master changes.
