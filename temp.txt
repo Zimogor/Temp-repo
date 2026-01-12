@@ -1,4 +1,4 @@
-Some text.
+Some text 1.
 Changes 2.
 Some changes.
 New branch 2 cchanges.
