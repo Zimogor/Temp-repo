@@ -1,9 +1,0 @@
-Some text 112.
-Changes 2.
-Some changes.
-New branch 2 cchanges.
-New branch changes.
-ssh changes.
-client changes
-server changes
-Master changes.
